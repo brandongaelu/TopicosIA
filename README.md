@@ -5,8 +5,7 @@
             Uriarte Lopez Brandon Gael 
             
 **Numero de Control:** 20170661 
-
-                       C21171176
+C21171176
 ---
 
 ## Índice
