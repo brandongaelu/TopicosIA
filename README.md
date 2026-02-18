@@ -4,8 +4,7 @@
 **Alumno:** Flores Soto Gael Eduardo  
             Uriarte Lopez Brandon Gael 
             
-**Numero de Control:** 20170661 
-C21171176
+**Numero de Control:** 20170661    C21171176
 ---
 
 ## Índice
